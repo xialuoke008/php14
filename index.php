@@ -2,4 +2,6 @@
 echo '1 function maser';
 echo '2 function dev';
 echo '3 function dev';
-echo '4 function master';
+echo '5 function dev';
+echo '6 function dev';
+
