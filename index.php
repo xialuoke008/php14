@@ -5,4 +5,5 @@ echo '3 function dev';
 echo '5 function dev';
 echo '6 function dev';
 echo '7 function dev';
+echo '8 function maser';
 
